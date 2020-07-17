@@ -2,6 +2,12 @@
 
 Audiocorpusbuilder-package was made to automatically create a russian language audio corpus from YouTube videotracks playlists: it downloads video's audio and subtitles, makes pairs "sound-text" and saves them in the directory. If there are not subtitles for the video, audiocorpusbuilder misses it.
 
+# Installing
+
+For installation you need Python 3.6 or later and OC Linux on your local machine. You can install audiocorpusbuilder from the PyPi using the following command:
+
+pip3 install audiocorpusbuilder
+
 # Start
 
 To run audiocorpusbuilder you shoild prepare directories for audiotracks, subtitles, results (directories should be like '/home/Audio/'). Also you need to create playlists.txt with playlists' links, every link should be on the separate line.
