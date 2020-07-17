@@ -10,19 +10,19 @@ To run audiocorpusbuilder you shoild prepare directories for audiotracks, subtit
 
 All arguments are required for program use.
 
-## 1. -p URL_list
+1. -p URL_list
 
 Playlists txt-file path.
 
-## 2. -a directory_audio
+2. -a directory_audio
 
 Path to download audiotracks.
 
-## 3. -s directory_subtitles
+3. -s directory_subtitles
 
 Path to download subtitles.
 
-## 4. -r directory_results
+4. -r directory_results
 
 Path to results.
 
