@@ -1,6 +1,6 @@
 # About
 
-audiocorpusbuilder-package was made to automatically create a russian language audio corpus from YouTube videotracks playlists: it downloads video's audio and subtitles, makes pairs "sound-text" and saves them in the directory. If there are not subtitles for the video, audiocorpusbuilder misses it.
+Audiocorpusbuilder-package was made to automatically create a russian language audio corpus from YouTube videotracks playlists: it downloads video's audio and subtitles, makes pairs "sound-text" and saves them in the directory. If there are not subtitles for the video, audiocorpusbuilder misses it.
 
 # Start
 
