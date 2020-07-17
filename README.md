@@ -6,30 +6,30 @@ audiocorpusbuilder-package was made to automatically create a russian language a
 
 To run audiocorpusbuilder you shoild prepare directories for audiotracks, subtitles, results (directories should be like '/home/Audio/'). Also you need to create playlists.txt with playlists' links, every link should be on the separate line.
 
-#Arguments
+# Arguments
 
 All arguments are required for program use.
 
-##1. -p URL_list
+## 1. -p URL_list
 
 Playlists txt-file path.
 
-##2. -a directory_audio
+## 2. -a directory_audio
 
 Path to download audiotracks.
 
-##3. -s directory_subtitles
+## 3. -s directory_subtitles
 
 Path to download subtitles.
 
-##4. -r directory_results
+## 4. -r directory_results
 
 Path to results.
 
-#Usage
+# Usage
 
 python3 acbr [-p URL_list] [-a directory_audio] [-s directory_subtitles] [-r directory_results] 
 
-#Example
+# Example
 
 acbr -p playlists.txt -a Audio -s Subs -r Results
