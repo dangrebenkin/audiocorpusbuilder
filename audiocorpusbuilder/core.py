@@ -159,7 +159,7 @@ def wavdivision(sound,directory_audio,directory_results,directory_subtitles,coun
     for moment1,moment2 in zip(startpoints,finishpoints):
         finalmoment(moment1, moment2,filenamecounter)
         filenamecounter += 1
-    print (counter,' from ',counter_limit)
+    print ('*',counter,' from ',counter_limit)
     counter+=1
 
 
