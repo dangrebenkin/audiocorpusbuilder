@@ -34,7 +34,7 @@ Path to results.
 
 # Usage
 
-python3 acbr [-p URL_list] [-a directory_audio] [-s directory_subtitles] [-r directory_results] 
+acbr [-p URL_list] [-a directory_audio] [-s directory_subtitles] [-r directory_results] 
 
 # Example
 
