@@ -10,7 +10,7 @@ pip3 install audiocorpusbuilder
 
 # Start
 
-To run audiocorpusbuilder you shoild prepare directories for audiotracks, subtitles, results (directories should be like '/home/Audio/'). Also you need to create playlists.txt with playlists' links, every link should be on the separate line.
+To run audiocorpusbuilder you should prepare directories for audiotracks, subtitles, results (directories should be like '/home/Audio/'). Also you need to create playlists.txt with playlists' links, every link should be on the separate line.
 
 # Arguments
 
