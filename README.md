@@ -4,9 +4,14 @@ Audiocorpusbuilder-package was made to automatically create a russian language a
 
 # Installing
 
-For installation you need Python 3.6 or later and OC Linux on your local machine. You can install audiocorpusbuilder from the PyPi using the following command:
+For installation you need Python 3.6 or later and OC Linux on your local machine. 
 
-pip3 install audiocorpusbuilder
+You can install it with these commands:
+```
+git clone https://github.com/dangrebenkin/audiocorpusbuilder.git
+cd audiocorpusbuilder
+python3 setup.py install
+```
 
 # Start
 
