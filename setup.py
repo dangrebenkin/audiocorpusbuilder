@@ -3,7 +3,7 @@ from os.path import join, dirname
 
 setup(
     name='audiocorpusbuilder',              
-    version='0.1',                         
+    version='0.2',                         
     description='command-line package for automatical creation of russian language audio corpus (pairs speech-text) from YouTube audiotracks and subtitles',
     url='https://github.com/dangrebenkin/audiocorpusbuilder',
     author='Daniel Grebenkin',
